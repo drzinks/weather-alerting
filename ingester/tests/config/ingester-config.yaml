@@ -5,4 +5,4 @@ altitude: 217
 base_api_url: "https://api.met.no/weatherapi/locationforecast/2.0/compact"
 user-agent: "mgol@poczta.fm https://github.com/drzinks/weather-alerting"
 #temperatures only for these hours
-hours_wanted: ["00","12"]
+hours_wanted: ["06","12"]

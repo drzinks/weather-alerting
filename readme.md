@@ -3,5 +3,5 @@
 ## Ingester
 - install libraries 
 ```sh
- pip install requests, pyyaml
+ pip install requests, pyyaml, pytest
 ```
