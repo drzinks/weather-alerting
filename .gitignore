@@ -1,0 +1,79 @@
+.idea/
+__pycache__
+**/__pycache__
+**/*credentials*
+*credentials*
+temp
+# Directories #
+/build/
+target/
+# OS Files #
+.DS_Store
+*.class
+# Package Files #
+*.jar
+!ojdbc8.jar
+!AthenaJDBC42-2.0.36.1000.jar
+!**/veevaoneqms-staging/src/main/resources/application.properties
+*.war
+*.txt
+*.ear
+*.db
+######################
+# Windows
+######################
+# Windows image file caches
+Thumbs.db
+# Folder config file
+Desktop.ini
+######################
+# OSX
+######################
+.DS_Store
+.svn
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+######################
+# Eclipse
+######################
+*.pydevproject
+.metadata
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+/src/main/resources/rebel.xml
+# External tool builders
+.externalToolBuilders/
+# Locally stored "Eclipse launch configurations"
+*.launch
+# CDT-specific
+.cproject
+# PDT-specific
+.buildpath
+/.idea
+/**/.idea
+*.iml
+/target
+*.keytab
+.classpath
+/logs
+.project
+/common.properties
+**/bin
+**/common.properties
+**/*.p12
+####################
+# VS CODE
+####################
+.factorypath
+.vscode
+dependency-reduced-pom.xml
