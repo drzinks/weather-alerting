@@ -77,3 +77,4 @@ local.properties
 .factorypath
 .vscode
 dependency-reduced-pom.xml
+*.log

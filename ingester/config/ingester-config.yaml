@@ -1,0 +1,6 @@
+#Lattitude: north/south, longtitude: west/east
+position: [51.7580, 19.4551]
+#height in meters
+altitude: 217
+base_api_url: "https://api.met.no/weatherapi/locationforecast/2.0/compact"
+user-agent: "mgol@poczta.fm https://github.com/drzinks/weather-alerting"
